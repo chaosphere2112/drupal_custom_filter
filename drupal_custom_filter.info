@@ -1,0 +1,4 @@
+title = "Drupal Custom Filter"
+description = "A custom filter handler made by Sam Fries, for use with the Views Module."
+version = 7.x
+dependencies[] = views
