@@ -5,6 +5,6 @@
 
 function drupal_custom_filter_views_api() {
   return array(
-    "api"=>3.0,
+    "api"=>3.0, // Return the API version we're using, to make sure we're compatible with the Views version being used.
   );
 }
